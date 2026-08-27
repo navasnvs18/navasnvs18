@@ -15,11 +15,11 @@
 
 Hola, soy **Jorge Navas**, estudiante de **Ingeniería en Ciencia de la Computación y Tecnologías de la Información** en la **Universidad del Valle de Guatemala**. Me apasiona aprender nuevas tecnologías y resolver problemas mediante el desarrollo de software.
 
-- Estudiando en la **Universidad del Valle de Guatemala**
+- Estudio en la **Universidad del Valle de Guatemala**
 - Enfocado en **desarrollo web Full Stack** (frontend, backend y bases de datos)
-- Explorando **ciberseguridad** y **análisis de datos con Python**
-- Cursando **Programación Orientada a Objetos (POO)** y **Bases de Datos / SQL**
-- Meta: seguir creciendo como desarrollador y ganar experiencia profesional
+- Actualmente exploro **ciberseguridad** y **análisis de datos con Python**
+- Curso **Programación Orientada a Objetos (POO)** y **Bases de Datos / SQL**
+- Meta: Seguir creciendo como desarrollador y ganar experiencia profesional
 
 ---
 
