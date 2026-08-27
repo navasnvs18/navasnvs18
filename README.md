@@ -2,7 +2,7 @@
 
 <img src="./banner.png.png" width="100%"/>
 
-<br>
+<br>  
 
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navasnvs18)
 [![Correo](https://img.shields.io/badge/CORREO-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navas.nvs.18@gmail.com)
@@ -27,11 +27,12 @@ Hola, soy **Jorge Navas**, estudiante de **Ingeniería en Ciencia de la Computac
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
